@@ -50,7 +50,7 @@ Follow these steps to set up and run the chatbot on your local machine:
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/chatbot.git
+git clone https://github.com/krishnasainakka/Chatbot.git
 cd chatbot
 ```
 ### **2️⃣ Install Dependencies**
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 ### **3️⃣ Run the Application **
 ```sh
-streamlit run chatbot.py
+streamlit run app.py
 ```
 
 
